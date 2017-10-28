@@ -1,0 +1,5 @@
+C:\Users\adria\Documents\InteliJ\tor\New folder\WindowsAnonymityChat\c#\AnonymityChat\IpcServer\bin\Debug\IpcServer.dll
+C:\Users\adria\Documents\InteliJ\tor\New folder\WindowsAnonymityChat\c#\AnonymityChat\IpcServer\bin\Debug\IpcServer.pdb
+C:\Users\adria\Documents\InteliJ\tor\New folder\WindowsAnonymityChat\c#\AnonymityChat\IpcServer\obj\Debug\IpcServer.dll
+C:\Users\adria\Documents\InteliJ\tor\New folder\WindowsAnonymityChat\c#\AnonymityChat\IpcServer\obj\Debug\IpcServer.pdb
+C:\Users\adria\Documents\InteliJ\tor\New folder\WindowsAnonymityChat\c#\AnonymityChat\IpcServer\obj\Debug\IpcServer.csprojResolveAssemblyReference.cache

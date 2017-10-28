@@ -1,0 +1,71 @@
+C:\Users\adria\Documents\InteliJ\tor\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\bin\Debug\AnonymityChat.exe.config
+C:\Users\adria\Documents\InteliJ\tor\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\bin\Debug\AnonymityChat.exe
+C:\Users\adria\Documents\InteliJ\tor\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\bin\Debug\AnonymityChat.pdb
+C:\Users\adria\Documents\InteliJ\tor\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\obj\Debug\AnonymityChat.csprojResolveAssemblyReference.cache
+C:\Users\adria\Documents\InteliJ\tor\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\obj\Debug\View\MainWindow.g.cs
+C:\Users\adria\Documents\InteliJ\tor\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\obj\Debug\App.g.cs
+C:\Users\adria\Documents\InteliJ\tor\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\obj\Debug\AnonymityChat_MarkupCompile.cache
+C:\Users\adria\Documents\InteliJ\tor\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\obj\Debug\AnonymityChat_MarkupCompile.lref
+C:\Users\adria\Documents\InteliJ\tor\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\obj\Debug\View\MainWindow.baml
+C:\Users\adria\Documents\InteliJ\tor\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\obj\Debug\AnonymityChat.g.resources
+C:\Users\adria\Documents\InteliJ\tor\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\obj\Debug\AnonymityChat.Properties.Resources.resources
+C:\Users\adria\Documents\InteliJ\tor\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\obj\Debug\AnonymityChat.csproj.GenerateResource.Cache
+C:\Users\adria\Documents\InteliJ\tor\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\obj\Debug\AnonymityChat.exe
+C:\Users\adria\Documents\InteliJ\tor\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\obj\Debug\AnonymityChat.pdb
+C:\Users\adria\Documents\InteliJ\tor\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\adria\Documents\InteliJ\tor\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\adria\Documents\InteliJ\tor\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\adria\Documents\InteliJ\tor\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\bin\Debug\log4net.dll
+C:\Users\adria\Documents\InteliJ\tor\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\adria\Documents\InteliJ\tor\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\adria\Documents\InteliJ\tor\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\adria\Documents\InteliJ\tor\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\adria\Documents\InteliJ\tor\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\adria\Documents\InteliJ\tor\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\adria\Documents\InteliJ\tor\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\adria\Documents\InteliJ\tor\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\adria\Documents\InteliJ\tor\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\bin\Debug\log4net.xml
+C:\Users\adria\Documents\InteliJ\tor\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\adria\Documents\InteliJ\tor\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\adria\Documents\InteliJ\tor\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\adria\Documents\InteliJ\tor\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\obj\Debug\App.baml
+C:\Users\adria\Documents\InteliJ\tor\New folder\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\bin\Debug\AnonymityChat.exe.config
+C:\Users\adria\Documents\InteliJ\tor\New folder\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\bin\Debug\AnonymityChat.exe
+C:\Users\adria\Documents\InteliJ\tor\New folder\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\bin\Debug\AnonymityChat.pdb
+C:\Users\adria\Documents\InteliJ\tor\New folder\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\adria\Documents\InteliJ\tor\New folder\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\adria\Documents\InteliJ\tor\New folder\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\adria\Documents\InteliJ\tor\New folder\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\bin\Debug\IpcServer.dll
+C:\Users\adria\Documents\InteliJ\tor\New folder\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\bin\Debug\log4net.dll
+C:\Users\adria\Documents\InteliJ\tor\New folder\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\adria\Documents\InteliJ\tor\New folder\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\adria\Documents\InteliJ\tor\New folder\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\bin\Debug\IpcServer.pdb
+C:\Users\adria\Documents\InteliJ\tor\New folder\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\adria\Documents\InteliJ\tor\New folder\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\adria\Documents\InteliJ\tor\New folder\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\adria\Documents\InteliJ\tor\New folder\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\adria\Documents\InteliJ\tor\New folder\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\adria\Documents\InteliJ\tor\New folder\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\adria\Documents\InteliJ\tor\New folder\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\bin\Debug\log4net.xml
+C:\Users\adria\Documents\InteliJ\tor\New folder\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\adria\Documents\InteliJ\tor\New folder\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\adria\Documents\InteliJ\tor\New folder\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\obj\Debug\AnonymityChat.csprojResolveAssemblyReference.cache
+C:\Users\adria\Documents\InteliJ\tor\New folder\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\obj\Debug\View\AddContactWindow.g.cs
+C:\Users\adria\Documents\InteliJ\tor\New folder\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\obj\Debug\View\ChatWindow.g.cs
+C:\Users\adria\Documents\InteliJ\tor\New folder\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\obj\Debug\View\LoadWindow.g.cs
+C:\Users\adria\Documents\InteliJ\tor\New folder\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\obj\Debug\View\MainWindow.g.cs
+C:\Users\adria\Documents\InteliJ\tor\New folder\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\obj\Debug\App.g.cs
+C:\Users\adria\Documents\InteliJ\tor\New folder\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\adria\Documents\InteliJ\tor\New folder\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\obj\Debug\AnonymityChat_MarkupCompile.cache
+C:\Users\adria\Documents\InteliJ\tor\New folder\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\obj\Debug\AnonymityChat_MarkupCompile.lref
+C:\Users\adria\Documents\InteliJ\tor\New folder\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\obj\Debug\App.baml
+C:\Users\adria\Documents\InteliJ\tor\New folder\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\obj\Debug\Resources\Dictionary.baml
+C:\Users\adria\Documents\InteliJ\tor\New folder\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\obj\Debug\View\AddContactWindow.baml
+C:\Users\adria\Documents\InteliJ\tor\New folder\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\obj\Debug\View\ChatWindow.baml
+C:\Users\adria\Documents\InteliJ\tor\New folder\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\obj\Debug\View\LoadWindow.baml
+C:\Users\adria\Documents\InteliJ\tor\New folder\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\obj\Debug\View\MainWindow.baml
+C:\Users\adria\Documents\InteliJ\tor\New folder\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\obj\Debug\AnonymityChat.g.resources
+C:\Users\adria\Documents\InteliJ\tor\New folder\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\obj\Debug\AnonymityChat.Properties.Resources.resources
+C:\Users\adria\Documents\InteliJ\tor\New folder\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\obj\Debug\AnonymityChat.csproj.GenerateResource.Cache
+C:\Users\adria\Documents\InteliJ\tor\New folder\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\obj\Debug\AnonymityChat.exe
+C:\Users\adria\Documents\InteliJ\tor\New folder\WindowsAnonymityChat\c#\AnonymityChat\AnonymityChat\obj\Debug\AnonymityChat.pdb
