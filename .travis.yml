@@ -1,7 +1,7 @@
 language: csharp
 solution: AnonymityChat.sln
 mono: none
-dotnet: 4.6
+dotnet: 2.0.2
 dist: trusty
 script:
  - dotnet restore
